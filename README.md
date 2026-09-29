@@ -1,1 +1,1 @@
-# umn-CoursePlanner
+# umn-coursePlanner
